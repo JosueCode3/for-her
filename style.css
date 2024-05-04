@@ -195,12 +195,12 @@ body {
  .text {
    position: absolute;
    font-family: system-ui, 'Open Sans', 'Helvetica Neue', sans-serif;
-   letter-spacing:2px;
+   letter-spacing:1px;
    text-align: center;
    color: white;
    z-index:2;
-   top:75px;
-   left:1px;
+   top: 75px;
+   left:9px;
    transition: .5s;
  }
  
