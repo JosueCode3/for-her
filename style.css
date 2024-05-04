@@ -13,6 +13,7 @@
 
 /* Estilos para dispositivos mÃ³viles */
 @media only screen and (max-width: 600px) {
+
   #card {
     width: 90%; /* Reducir el ancho para dispositivos mÃ³viles */
     height: auto; /* Permitir que la altura se ajuste automÃ¡ticamente */
@@ -20,7 +21,6 @@
     position: static; /* Cambiar la posiciÃ³n a estÃ¡tica para que no sea fija */
     visibility: none; /* Hacer que el elemento sea visible */
     top: 50px;
- 
   }
   .side.side.one {
     display: none; 
